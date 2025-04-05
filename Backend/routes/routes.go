@@ -1,11 +1,11 @@
 package routes
 
 import (
-	ct "firsttodo.com/CT"
-	dt "firsttodo.com/DT"
-	gt "firsttodo.com/GT"
-	gtid "firsttodo.com/GTid"
-	ud "firsttodo.com/UD"
+	ct "github.com/RashidAssef/todo-backend/CT"
+	dt "github.com/RashidAssef/todo-backend/DT"
+	gt "github.com/RashidAssef/todo-backend/GT"
+	gtid "github.com/RashidAssef/todo-backend/GTid"
+	ud "github.com/RashidAssef/todo-backend/UD"
 	"github.com/gin-gonic/gin"
 )
 
