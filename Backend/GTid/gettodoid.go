@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"firsttodo.com/database"
-	"firsttodo.com/model"
+	"github.com/RashidAssef/todo-backend/database"
+	"github.com/RashidAssef/todo-backend/model"
 	"github.com/gin-gonic/gin"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
